@@ -80,9 +80,9 @@ Act 4: "hallowed"
 Act 1:
 "!(uiv)" "o att|combat|vem|nish|ulde|hilled|zzi|lacquered|studded|blessed|hale|healthy"
 Act 2:
-"!(uiv)" "wick|poli|smok|infu|ppi|combat|dueling|vem|sanguine|stalwart|rak|torm|rwh|acrobat's|fleet|nymph's"
+"!(uiv)" "wick|poli|smok|infu|ppi|combat|dueling|vem|sanguine|stalwart|rak|torm|rwh|acrobat's|fleet|nymph's|y: \+|ts: S"
 Act 3:
-"!(uiv)" "honed|burning|frigid|crackling|vicious|empowering|dueling|conflict|llion's|stout|robust|rak|torm|rwh|kiln|derhe|yeti|nishme|sylph's"
+"!(uiv)" "honed|burning|frigid|crackling|vicious|empowering|dueling|conflict|llion's|stout|robust|rak|torm|rwh|kiln|derhe|yeti|nishme|sylph's|y: \+|ts: S"
 Act 4:
-"!(uiv)" "unleashed|gleaming|flaming|freezing|sparking|bloodthirsty|duelling|conflict|zelle's|rotund|rak|torm|rwh|kiln|derhe|yeti|nishme|evicti|tempe|walru|furnace|cherub's"
+"!(uiv)" "unleashed|gleaming|flaming|freezing|sparking|bloodthirsty|duelling|conflict|zelle's|rotund|rak|torm|rwh|kiln|derhe|yeti|nishme|evicti|tempe|walru|furnace|cherub's|y: \+|ts: S"
 
