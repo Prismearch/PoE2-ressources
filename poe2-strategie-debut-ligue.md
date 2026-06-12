@@ -28,7 +28,7 @@ Trois masters disponibles : **Hilda**, **Toriani** et **Davos**.
 
 ### Waystones
 
-Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. En tout début de ligue, pas besoin de chercher à mettre des affixes dessus : les **Orbes d'Alchimie** suffisent. On en récupère facilement et on n'en a pas d'autre usage à ce stade.
+Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. Plus d'XP → plus de levels → personnage plus puissant. En tout début de ligue, pas besoin de chercher à mettre des affixes dessus : les **Orbes d'Alchimie** suffisent. On en récupère facilement et on n'en a pas d'autre usage à ce stade.
 
 ### Tablettes
 
