@@ -20,7 +20,35 @@ Cela dit, si on explore au nord vers les Citadelles et qu'on tombe sur des tours
 
 À budget limité, ça dépend du prix des Sparks au moment où on joue. En début de ligue, les Sparks coûtent cher proportionnellement aux revenus. Si un Spark vaut 5 div et qu'on en a à peine 5, il est probablement plus rentable d'investir ces 5 div dans du stuff — que ce soit 5 upgrades à 1 div ou une seule pièce à 5 div qui donne un gain significatif.
 
-## 4. Farm des maps
+## 4. Progression dans l'arbre d'Atlas
+
+Ordre de progression recommandé :
+
+1. **Skip Essence** — pas assez de reward. Le temps d'avoir assez d'Exalts + Vaal pour booster les essences, elles ne valent plus rien sur le marché.
+
+2. **Débloquer les drops Overseer et Irradiated** — [Étape 1](https://maxroll.gg/poe2/atlas-tree/8810m90e)
+   - **Irradiated** : bonus de level sur les maps
+   - **Overseer** : powerful boss + rarity on boss + drop de Waystone +1 level
+
+3. **Summoning Circles** — pour forcer des powerful boss sur les maps adjacentes. *(Semble buggué selon les données actuelles.)*
+
+4. **Shrine + Enlightenment** — pour l'XP.
+
+5. **Améliorer le loot des rares** — [Étape 2](https://maxroll.gg/poe2/atlas-tree/fwwbv0w6)
+
+6. **Deadly Map Boss dans les Summoning Circles** — chance de drop de Lineage Gem — [Étape 3](https://maxroll.gg/poe2/atlas-tree/2j10mz0e)
+
+7. **More loot** — [Étape 4](https://maxroll.gg/poe2/atlas-tree/y5wyo0wt)
+
+8. **Rare Tablet** — [Étape 5](https://maxroll.gg/poe2/atlas-tree/m1wyq0wd)
+
+9. **Modifier supplémentaire sur les tablettes** — [Étape 6](https://maxroll.gg/poe2/atlas-tree/5p10ne0e)
+
+Après cette progression, ça dépend des objectifs :
+- Débloquer les **Exceptional** : [Étape 7](https://maxroll.gg/poe2/atlas-tree/pd10vs0e)
+- Ou spécialiser le contenu, améliorer les drops, etc.
+
+## 5. Farm des maps
 
 Trop chronophage d'aller chercher les Patriarchs/Matriarchs pour faire les maps à la main — privilégier d'autres sources de Waystones.
 
