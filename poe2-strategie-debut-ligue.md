@@ -68,6 +68,10 @@ Intéressant mais plus complexe, demande de savoir crafter avec l'arbre de Breac
 
 Pour farmer les **Lineage Gems**, il faut d'abord trouver les maps de bosses de lignée. Ensuite, utiliser 3 **Overseer Tablets** avec des modificateurs de bonus sur boss pour maximiser la **rarity** et augmenter les chances de drop.
 
+## 8. Recherches d'objets (Wishlists)
+
+Mettre en place des **recherches sauvegardées** sur le marché pour les upgrades de stuff potentielles. Exemple pour une arme de moine : créer une recherche avec 3-4 affixes intéressants pour le build, avec un prix légèrement en dessous du marché (ou au prix du marché s'il n'existe rien actuellement). L'objectif est d'être averti automatiquement dès qu'une upgrade apparaît.
+
 ---
 
 ## TODO / points à clarifier
