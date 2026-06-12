@@ -24,7 +24,22 @@ Trois masters disponibles : **Hilda**, **Toriani** et **Davos**.
 - **Toriani** — demande de trouver des corruptions. Il y en a une proche du start, mais les autres sont plus difficiles à localiser.
 - **Davos** — le plus complexe : nécessite de trouver des maps uniques, ce qui peut être assez compliqué.
 
-## 5. Mécaniques de ligue à privilégier
+## 5. Waystones et Tablettes
+
+### Waystones
+
+Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. En tout début de ligue, pas besoin de chercher à mettre des affixes dessus : les **Orbes d'Alchimie** suffisent. On en récupère facilement et on n'en a pas d'autre usage à ce stade.
+
+### Tablettes
+
+Deux modificateurs à cibler en priorité :
+
+- **+Gold**
+- **+Experience**
+
+Viser des tablettes **irradiées** (au moins une par map) pour le bonus de level — ce qui se traduit par plus d'XP et plus de loot.
+
+## 6. Mécaniques de ligue à privilégier
 
 ### Ritual
 
