@@ -72,6 +72,8 @@ Pour farmer les **Lineage Gems**, il faut d'abord trouver les maps de bosses de 
 
 Ne pas laisser sa currency prendre la poussière. Dépenser une Divine pour acheter une meilleure arme, c'est aller plus vite — donc générer plus de currency à l'heure, ou débloquer du contenu de plus haut niveau. Le meilleur investissement, c'est souvent de se stuff.
 
+De plus, acheter une upgrade n'est pas une dépense brute : on remplace un objet qu'on va pouvoir revendre. Le coût réel est donc la différence entre le prix de l'upgrade et le prix de revente de l'ancien objet.
+
 ## 9. Recherches d'objets (Wishlists)
 
 Mettre en place des **recherches sauvegardées** sur le marché pour les upgrades de stuff potentielles. Exemple pour une arme de moine : créer une recherche avec 3-4 affixes intéressants pour le build, avec un prix légèrement en dessous du marché (ou au prix du marché s'il n'existe rien actuellement). L'objectif est d'être averti automatiquement dès qu'une upgrade apparaît.
