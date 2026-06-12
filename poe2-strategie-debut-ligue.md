@@ -12,7 +12,15 @@ Trois options intéressantes en début de ligue :
 - En bas à droite : accès au **Vaal Temple**
 - Au nord : accès aux **Citadels** et autres mécaniques
 
-## 3. Farm des maps
+## 3. Compléter l'arbre de classe
+
+Pour débloquer les points de passifs de classe, l'option la plus pratique est d'**acheter des Sparks of Divinity** plutôt que de chercher soi-même les tours pour accéder aux Patriarchs/Matriarchs. C'est un peu cher, mais ça évite une longue exploration.
+
+Cela dit, si on explore au nord vers les Citadelles et qu'on tombe sur des tours, les faire permet d'économiser ces achats.
+
+> **Question ouverte :** à budget limité, que prioriser entre améliorer son équipement et acheter des Sparks of Divinity ?
+
+## 4. Farm des maps
 
 Trop chronophage d'aller chercher les Patriarchs/Matriarchs pour faire les maps à la main — privilégier d'autres sources de Waystones.
 
