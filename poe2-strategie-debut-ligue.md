@@ -64,6 +64,10 @@ Très simple — génère plus de mobs et de loot ("la couronne"). Permet de ré
 
 Intéressant mais plus complexe, demande de savoir crafter avec l'arbre de Breach. Exemple concret : des ceintures avec des affixes donnant des dégâts de sorts sur effet de flask se vendent bien — vendues facilement autour de **5 div** avec un **Archon Effect**.
 
+## 7. Lineage Gems
+
+Pour farmer les **Lineage Gems**, il faut d'abord trouver les maps de bosses de lignée. Ensuite, utiliser 3 **Overseer Tablets** avec des modificateurs de bonus sur boss pour maximiser la **rarity** et augmenter les chances de drop.
+
 ---
 
 ## TODO / points à clarifier
