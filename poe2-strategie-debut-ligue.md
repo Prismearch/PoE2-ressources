@@ -16,7 +16,15 @@ Trois options intéressantes en début de ligue :
 
 Trop chronophage d'aller chercher les Patriarchs/Matriarchs pour faire les maps à la main — privilégier d'autres sources de Waystones.
 
-## 4. Mécaniques de ligue à privilégier
+## 4. Choix du Master
+
+Trois masters disponibles : **Hilda**, **Toriani** et **Davos**.
+
+- **Hilda** — probablement le plus accessible en début de ligue. Les maps nécessaires sont relativement proches du start.
+- **Toriani** — demande de trouver des corruptions. Il y en a une proche du start, mais les autres sont plus difficiles à localiser.
+- **Davos** — le plus complexe : nécessite de trouver des maps uniques, ce qui peut être assez compliqué.
+
+## 5. Mécaniques de ligue à privilégier
 
 ### Ritual
 
