@@ -28,7 +28,16 @@ Trois masters disponibles : **Hilda**, **Toriani** et **Davos**.
 
 ### Waystones
 
-Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. Plus d'XP → plus de levels → personnage plus puissant. En tout début de ligue, pas besoin de chercher à mettre des affixes dessus : les **Orbes d'Alchimie** suffisent. On en récupère facilement et on n'en a pas d'autre usage à ce stade.
+Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. Plus d'XP → plus de levels → personnage plus puissant.
+
+### Pourquoi farmer le Gold
+
+Le Gold a plusieurs utilisations critiques en début de ligue :
+
+1. **Respec** — on a souvent besoin de réinitialiser des passifs : erreurs de build, passifs utiles en early qui deviennent obsolètes, ou achat de **Timeless Jewels** qui modifient les notables de l'arbre.
+2. **Market** — acheter des objets sur le marché. En early on change souvent de stuff, donc le besoin en Gold est constant et les objets peuvent coûter cher.
+3. **Toriani (3-pour-1)** — acheter des Waystones et les échanger en lot de 3 contre une de tier supérieur, pour monter rapidement dans les tiers.
+4. **Flip de devises** — convertir des Divines en Exalts ou acheter sans avoir l'exact en monnaie. Les taux de change peuvent vite coûter très cher en Gold. En tout début de ligue, pas besoin de chercher à mettre des affixes dessus : les **Orbes d'Alchimie** suffisent. On en récupère facilement et on n'en a pas d'autre usage à ce stade.
 
 ### Tablettes
 
