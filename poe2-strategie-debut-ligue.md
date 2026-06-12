@@ -1,0 +1,38 @@
+# Stratégie de début de ligue – Path of Exile 2 (Runes of Aldur, 0.5.0)
+
+## 1. Priorité initiale : points de passifs
+
+Aller chercher des points de classe supplémentaires en tuant **Arbiter of Ash** et **Arbiter of Divinity**.
+
+## 2. Choix du quadrant de l'Atlas
+
+Trois options intéressantes en début de ligue :
+
+- En bas à gauche : accès au **Ritual**
+- En bas à droite : accès au **Vaal Temple**
+- Au nord : accès aux **Citadels** et autres mécaniques
+
+## 3. Farm des maps
+
+Trop chronophage d'aller chercher les Patriarchs/Matriarchs pour faire les maps à la main — privilégier d'autres sources de Waystones.
+
+## 4. Mécaniques de ligue à privilégier
+
+### Ritual
+
+Assez contraignant, nécessite de bien juicer (3-4 tablettes), mais très intéressant pour récupérer des **Omens** et des **uniques**. En début de ligue, les uniques se vendent cher — bon potentiel économique.
+
+### Abyss
+
+Très simple — génère plus de mobs et de loot ("la couronne"). Permet de récupérer des Omens facilement. Depuis 0.5.0, compléter les Abysses sur l'Atlas garantit l'accès aux **Abyssal Depths**.
+
+### Breach
+
+Intéressant mais plus complexe, demande de savoir crafter avec l'arbre de Breach. Exemple concret : des ceintures avec des affixes donnant des dégâts de sorts sur effet de flask se vendent bien — vendues facilement autour de **5 div** avec un **Archon Effect**.
+
+---
+
+## TODO / points à clarifier
+
+- [ ] "la couronne" pour Abyss — terme exact à confirmer
+- [ ] Préciser le rôle exact de l'Archon Effect dans le craft de ceinture (Breach)
