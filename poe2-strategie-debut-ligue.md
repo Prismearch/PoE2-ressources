@@ -30,6 +30,8 @@ Trois masters disponibles : **Hilda**, **Toriani** et **Davos**.
 
 Toujours utiliser les Waystones de plus haut level — notamment pour l'XP. Plus d'XP → plus de levels → personnage plus puissant.
 
+Pour la progression sur l'Atlas, toujours rester au plus haut tier de Waystone disponible. Inutile de redescendre en T1 juste pour compléter des points d'Atlas ou des points de ligue — si l'objectif est d'avancer vite, on fait la même map au plus haut level possible. Le tier élevé garantit l'XP et une quantité de loot correcte, et rush le boss ne prend pas beaucoup plus de temps qu'une T1.
+
 ### Pourquoi farmer le Gold
 
 Le Gold a plusieurs utilisations critiques en début de ligue :
