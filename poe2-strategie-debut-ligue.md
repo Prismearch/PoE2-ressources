@@ -18,7 +18,7 @@ Pour débloquer les points de passifs de classe, l'option la plus pratique est d
 
 Cela dit, si on explore au nord vers les Citadelles et qu'on tombe sur des tours, les faire permet d'économiser ces achats.
 
-> **Question ouverte :** à budget limité, que prioriser entre améliorer son équipement et acheter des Sparks of Divinity ?
+À budget limité, ça dépend du prix des Sparks au moment où on joue. En début de ligue, les Sparks coûtent cher proportionnellement aux revenus. Si un Spark vaut 5 div et qu'on en a à peine 5, il est probablement plus rentable d'investir ces 5 div dans du stuff — que ce soit 5 upgrades à 1 div ou une seule pièce à 5 div qui donne un gain significatif.
 
 ## 4. Farm des maps
 
