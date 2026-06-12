@@ -1,5 +1,7 @@
 # Stratégie de début de ligue – Path of Exile 2 (Runes of Aldur, 0.5.0)
 
+> **Public visé :** ce guide s'adresse aux joueurs "normaux" qui mettent plus d'une soirée à finir un atlas de ligue — contrairement à ce que GGG semble avoir en tête. Il n'est pas destiné aux joueurs capables de terminer la campagne ou un atlas jour 1.
+
 ## 1. Priorité initiale : points de passifs
 
 Aller chercher des points de classe supplémentaires en tuant **Arbiter of Ash** et **Arbiter of Divinity**.
